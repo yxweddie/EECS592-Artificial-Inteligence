@@ -1,0 +1,5 @@
+# ignore the training model
+*.dat
+.DS_Store
+.idea
+.note
